@@ -1,6 +1,6 @@
 # phase-0-personal-project-web
 personal website
-# CODE G Website
+# CODE WITH GLENN Website
 #### This is a personal website in HTML, CSS and Javascript.
 #### By Glenn Kamau, a student at Moringa School
 ## Description
