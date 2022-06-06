@@ -12,18 +12,18 @@ body {
 }
 h1 {
     text-align: center;
-    color: blue;
+    color: green;
     font-size: 100px;
-    letter-spacing: 100px;
+    letter-spacing: 5px;
 }
 button {
-   background-color: rgb(167, 67, 117);
+   background-color: green;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-decoration: black;
    letter-spacing: 10px;
    font-size: xx-large;
    font-weight: 200;
-   font-style: italic;
+   font-style: normal;
 }
 h3 {
    font-family: Georgia, 'Times New Roman', Times, serif;
@@ -33,7 +33,7 @@ h3 {
    color: black;
    letter-spacing: 10px;
    font-size: xx-large;
-   font-style: italic;
+   font-style: normal;
 }
 nav {
     float: center;
@@ -58,4 +58,39 @@ p {
     font-weight: 200;
     font-style: normal;
     color: black;
+}
+#about {
+    background-color: black;
+    color: green;
+    background-size: 0in;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;  
+}
+#expertise {
+    background-size: 0in;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center; 
+    letter-spacing: 10px;
+    color: green;
+}
+#interest {
+    background-size: 0in;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center; 
+    letter-spacing: 10px;
+    color: green;
+}
+#contact {
+    background-size: 0in;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center; 
+    letter-spacing: 10px;
+    color: green;
 }
