@@ -3,4 +3,4 @@ function testResults (form) {
     alert ("You typed: " + TestVar);
 }
 const myHeading = document.querySelector('h1');
-myHeading.textContent = 'CODE G!';
+myHeading.textContent = 'CODE WITH GLENN!';
